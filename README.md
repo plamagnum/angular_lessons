@@ -1,7 +1,7 @@
 # 🅰️ Angular Learning Hub
 
-![Angular](https://img.shields.io/badge/Angular-17.2-DD0031?logo=angular)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6?logo=typescript)
+![Angular](https://img.shields.io/badge/Angular-19.2-DD0031?logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-20-339933?logo=node.js)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
 
@@ -33,8 +33,8 @@ Angular Learning Hub — це інтерактивна платформа для
 ## 🛠 Технології
 
 ### Frontend
-- **Angular 17.2** — Standalone компоненти, Signals, новий Control Flow
-- **TypeScript 5.3** — Strict mode, типізація
+- **Angular 19.2** — Standalone компоненти, Signals, новий Control Flow
+- **TypeScript 5.7** — Strict mode, типізація
 - **RxJS 7.8** — Реактивне програмування
 - **SCSS** — CSS Custom Properties для тем
 
