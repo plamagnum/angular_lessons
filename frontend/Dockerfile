@@ -18,7 +18,7 @@ RUN npm run build
 FROM nginx:alpine
 
 # Копіювати збудований додаток
-COPY --from=builder /app/dist/angular-learning-hub/browser /usr/share/nginx/html
+COPY --from=builder /app/dist/angular-learning-hub /usr/share/nginx/html
 
 # Копіювати конфігурацію Nginx
 COPY nginx.conf /etc/nginx/conf.d/default.conf
